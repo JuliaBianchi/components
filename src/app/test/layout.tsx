@@ -16,6 +16,8 @@ const components = [
   { label: "AnimatedList", href: "/test/animatedlist" },
   { label: "Chip",     href: "/test/chip" },
   { label: "Timeline", href: "/test/timeline" },
+  { label: "Tabs",     href: "/test/tabs" },
+  { label: "Table",    href: "/test/table" },
 ]
 
 export default function TestLayout({ children }: { children: React.ReactNode }) {
